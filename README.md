@@ -1,2 +1,4 @@
-# file-percoban-2
-file ini adalah kelanjutan dari file pertama
+# repo-percoban-2
+ini adalah repo percobaan pertama
+
+
